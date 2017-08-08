@@ -12,6 +12,8 @@ public class Player : MonoBehaviour
 
     private Rigidbody2D rigid;
 
+    //Sweet comment right here
+
     // Use this for initialization
     void Start()
     {
